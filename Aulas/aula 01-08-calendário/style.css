@@ -1,0 +1,28 @@
+.calendario{
+    width:728px;
+    height:620px;
+    border:3px solid black;
+}
+
+.linhav{
+    width:728px;
+    height:100px;
+    background-color:red;   
+}
+
+.escrita{
+    font-size:80px;
+    text-align:center;
+    color:white;
+}
+
+.quadrado{
+    width:100px;
+    height:100px;
+    border:2px solid black;
+    float:left;
+}
+
+.dia{
+    font-size:20px;
+}

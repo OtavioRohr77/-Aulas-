@@ -1,0 +1,23 @@
+#menu ul li {
+    list-style-type: none;
+    float:left;
+    padding:3px;
+    background-color:aquamarine;
+    
+}
+
+#menu ul li a{
+    text-decoration:none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    background-color:red;
+}
+
+#menu ul li a:hover{
+    background-color:gold;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/564x/d3/0d/f8/d30df859871a2eb6f2e77809bc5b4caa.jpg);
+    
+}
